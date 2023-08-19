@@ -28,9 +28,9 @@ def tim_sort(word):
             mid = min(n - 1, start + size - 1)
             end = min(n - 1, mid + size)
             merged_arr = merge(
-                array[start : mid + 1], array[mid + 1 : end + 1]
+                array[start: mid + 1], array[mid + 1: end + 1]
             )
-            array[start : start + len(merged_arr)] = merged_arr
+            array[start: start + len(merged_arr)] = merged_arr
 
         size *= 2
 
