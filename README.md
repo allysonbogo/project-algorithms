@@ -18,7 +18,7 @@ Neste projeto, o foco foi aprimorar minhas habilidades em resolução de problem
 
 ## ⚙️ Funcionalidades
 
-Foi utilizada a linguagem Python para a resolução de diversos desafios envolvendo algoritmos e estruturas de dados. Cada desafio tinha uma proposta específica e estão listados a seguir
+Foi utilizada a linguagem Python para a resolução de diversos desafios envolvendo algoritmos e estruturas de dados. Cada desafio proposto tinha uma problemática específica e estão listados a seguir:
 
 <details>
   <summary> <code>study_schedule</code> </summary>
