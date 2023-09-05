@@ -26,7 +26,6 @@ Foi utilizada a linguagem Python para a resolução de diversos desafios envolve
   Essa função utiliza a abordagem de força bruta para determinar o horário com a maior demanda de pessoas utilizando uma plataforma de estudos, com base em uma lista de tuplas que registram os horários de entrada e saída dos estudantes. A função é chamada com diferentes horários alvo (target_time) para encontrar a demanda de cada horário.
 
 </details>
-<br>
 
 <details>
   <summary> <code>is_palindrome_recursive</code> </summary>
@@ -34,7 +33,6 @@ Foi utilizada a linguagem Python para a resolução de diversos desafios envolve
   Essa função determina, de modo recursivo, se uma palavra é um palíndromo ou não. A função recebe uma string de parâmetro e o retorno é um booleano.
 
 </details>
-<br>
 
 <details>
   <summary> <code>anagrams</code> </summary>
@@ -42,7 +40,6 @@ Foi utilizada a linguagem Python para a resolução de diversos desafios envolve
   Essa função compara duas strings e identifica se uma é um anagrama da outra. O retorno da função é uma tupla () contendo a primeira e a segunda strings ordenadas, e um booleano representando se são anagramas.
 
 </details>
-<br>
 
 <details>
   <summary> <code>find_duplicate</code> </summary>
@@ -50,7 +47,6 @@ Foi utilizada a linguagem Python para a resolução de diversos desafios envolve
   Essa função recebe uma lista de números inteiros e retorna um número repetido. A função retorna False se a lista não tiver números repetidos, for uma string, conter apenas um valor, ter um número negativo ou se nenhum parâmetro for passado.
 
 </details>
-<br>
 
 <details>
   <summary> <code>is_palindrome_iterative</code> </summary>
@@ -58,7 +54,6 @@ Foi utilizada a linguagem Python para a resolução de diversos desafios envolve
   Essa função determina, de modo iterativo, se uma palavra é um palíndromo ou não. A função recebe uma string de parâmetro e o retorno é um booleano.
 
 </details>
-<br>
 
 <details>
   <summary> <code>test_encrypt_message</code> </summary>
